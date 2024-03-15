@@ -115,8 +115,7 @@ python web_demo.py --from_pretrained your/XrayChat/checkpoints/path
 ## Examples
   |   |   |
 :-------------------------:|:-------------------------:
-![example 1](images/image1.jpg) |  ![example 2](images/image2.jpg)
-![example 3](images/image3.jpg)  |  ![example 4](images/image4.jpg)
+![example 1](images/image1.png) |  ![example 2](images/image2.png)
 
 
 ## Acknowledgement
