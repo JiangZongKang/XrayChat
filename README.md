@@ -1,7 +1,7 @@
 # XrayChat: Chest Radiographs Summarization with Chinese using Vision-Language Models.
 ![](https://i.imgur.com/waxVImv.png)
 
-## About XrayGPT
+## About XrayChat
 <hr>
 
 + XrayChat aims to stimulate research around automated analysis with chinese of chest radiographs based on the given x-ray. 
